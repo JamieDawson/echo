@@ -1,4 +1,4 @@
-sourceBasePath: https://raw.githubusercontent.com/jamiedawson/echo/master/src
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/master/src
 commands:
   echo2:
     sourcePath: /echo.js
