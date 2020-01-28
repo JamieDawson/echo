@@ -1,3 +1,13 @@
+OpenCSI: 1
+info:
+  description: null
+  version: null
+  title: myset
+  termsOfService: 'https://nimbella.com/terms'
+  contact: demo@nimbella.com
+  license:
+    name: 'Apache 2.0'
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
 sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/master/src
 commands:
   echo2:
