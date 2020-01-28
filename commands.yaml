@@ -1,6 +1,6 @@
 OpenCSI: 1
 info:
-  description: null
+  description: "Prints out a message"
   version: null
   title: myset
   termsOfService: 'https://nimbella.com/terms'
