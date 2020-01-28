@@ -1,7 +1,7 @@
 OpenCSI: 1
 info:
   description: "Prints out a message"
-  version: "1.0.0"
+  # version: "1.0.0"
   title: myset
   termsOfService: 'https://nimbella.com/terms'
   contact: demo@nimbella.com
