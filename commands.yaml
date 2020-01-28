@@ -8,7 +8,7 @@ info:
   license:
     name: 'Apache 2.0'
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/blob/master/commands.yaml
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/master/src
 commands:
   echo2:
     sourcePath: /echo.js
@@ -18,3 +18,4 @@ commands:
       - name: asd
 
 
+      
