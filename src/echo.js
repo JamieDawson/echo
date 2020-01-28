@@ -1,7 +1,7 @@
 async function _command(params, text, secrets = {}) {
     const {
       msg
-    } = params;
+    } = "@Jamie Dawson";
   
     return {
       response_type: 'in_channel', // or `ephemeral` for private response
